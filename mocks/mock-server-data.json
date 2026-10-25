@@ -1,0 +1,124 @@
+{
+  "offers": [
+    {
+      "title": "Sunny apartment near the river",
+      "description": "Enjoy a bright apartment with a river view and easy access to museums and cafes.",
+      "city": "Paris",
+      "previewImage": "https://example.com/images/paris-preview.jpg",
+      "images": [
+        "https://example.com/images/paris-1.jpg",
+        "https://example.com/images/paris-2.jpg",
+        "https://example.com/images/paris-3.jpg",
+        "https://example.com/images/paris-4.jpg",
+        "https://example.com/images/paris-5.jpg",
+        "https://example.com/images/paris-6.jpg"
+      ],
+      "author": {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "avatar": "https://example.com/avatars/alice.png",
+        "type": "pro"
+      }
+    },
+    {
+      "title": "Comfortable house in the old town",
+      "description": "A comfortable home in a historic district with shops and public transport nearby.",
+      "city": "Cologne",
+      "previewImage": "https://example.com/images/cologne-preview.jpg",
+      "images": [
+        "https://example.com/images/cologne-1.jpg",
+        "https://example.com/images/cologne-2.jpg",
+        "https://example.com/images/cologne-3.jpg",
+        "https://example.com/images/cologne-4.jpg",
+        "https://example.com/images/cologne-5.jpg",
+        "https://example.com/images/cologne-6.jpg"
+      ],
+      "author": {
+        "name": "Robert",
+        "email": "robert@example.com",
+        "avatar": "https://example.com/avatars/robert.png",
+        "type": "regular"
+      }
+    },
+    {
+      "title": "Quiet room close to the city center",
+      "description": "A quiet private room with everything you need for a relaxing city break.",
+      "city": "Brussels",
+      "previewImage": "https://example.com/images/brussels-preview.jpg",
+      "images": [
+        "https://example.com/images/brussels-1.jpg",
+        "https://example.com/images/brussels-2.jpg",
+        "https://example.com/images/brussels-3.jpg",
+        "https://example.com/images/brussels-4.jpg",
+        "https://example.com/images/brussels-5.jpg",
+        "https://example.com/images/brussels-6.jpg"
+      ],
+      "author": {
+        "name": "Emma",
+        "email": "emma@example.com",
+        "avatar": "https://example.com/avatars/emma.png",
+        "type": "pro"
+      }
+    },
+    {
+      "title": "Spacious apartment beside the canal",
+      "description": "Stay in a spacious canal apartment within walking distance of the main attractions.",
+      "city": "Amsterdam",
+      "previewImage": "https://example.com/images/amsterdam-preview.jpg",
+      "images": [
+        "https://example.com/images/amsterdam-1.jpg",
+        "https://example.com/images/amsterdam-2.jpg",
+        "https://example.com/images/amsterdam-3.jpg",
+        "https://example.com/images/amsterdam-4.jpg",
+        "https://example.com/images/amsterdam-5.jpg",
+        "https://example.com/images/amsterdam-6.jpg"
+      ],
+      "author": {
+        "name": "Oliver",
+        "email": "oliver@example.com",
+        "avatar": "https://example.com/avatars/oliver.png",
+        "type": "regular"
+      }
+    },
+    {
+      "title": "Modern hotel room near the harbor",
+      "description": "A modern room near the harbor, perfect for exploring the city on foot.",
+      "city": "Hamburg",
+      "previewImage": "https://example.com/images/hamburg-preview.jpg",
+      "images": [
+        "https://example.com/images/hamburg-1.jpg",
+        "https://example.com/images/hamburg-2.jpg",
+        "https://example.com/images/hamburg-3.jpg",
+        "https://example.com/images/hamburg-4.jpg",
+        "https://example.com/images/hamburg-5.jpg",
+        "https://example.com/images/hamburg-6.jpg"
+      ],
+      "author": {
+        "name": "Mia",
+        "email": "mia@example.com",
+        "avatar": "https://example.com/avatars/mia.png",
+        "type": "pro"
+      }
+    },
+    {
+      "title": "Cozy house with a private garden",
+      "description": "Relax in a cozy house with a garden after a busy day of sightseeing.",
+      "city": "Dusseldorf",
+      "previewImage": "https://example.com/images/dusseldorf-preview.jpg",
+      "images": [
+        "https://example.com/images/dusseldorf-1.jpg",
+        "https://example.com/images/dusseldorf-2.jpg",
+        "https://example.com/images/dusseldorf-3.jpg",
+        "https://example.com/images/dusseldorf-4.jpg",
+        "https://example.com/images/dusseldorf-5.jpg",
+        "https://example.com/images/dusseldorf-6.jpg"
+      ],
+      "author": {
+        "name": "Daniel",
+        "email": "daniel@example.com",
+        "avatar": "https://example.com/avatars/daniel.png",
+        "type": "regular"
+      }
+    }
+  ]
+}
